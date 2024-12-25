@@ -1,11 +1,11 @@
 /* *****************************************************************************
- *  Name:              Ada Lovelace
+ *  Name:              wqjxdb
  *  Coursera User ID:  123456
  *  Last modified:     Dec 24th , 2024
  **************************************************************************** */
 
 /** Represents a greeting and goodbye printer */
-public class Hello {
+public class HelloGoodbye {
 
     /**
      * Prints greeting and goodbye to the two names
